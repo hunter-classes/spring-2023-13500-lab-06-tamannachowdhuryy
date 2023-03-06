@@ -11,8 +11,8 @@ This program asks the user to input a line of text (which may possibly include s
 
 int main(){
     std::string input = "Cat :3 Dog";
-    for(int x = 0; x < input.length(); x++){
-        std::cout << input[x] << " " << (int)(input[x]) << std::endl;
+    for(int x = 0; x < input.length(); x++){ // if statement so it can list out the number 
+        std::cout << input[x] << " " << (int)(input[x]) << std::endl; // will be inputting a empty string
     }
 
     return 0;
