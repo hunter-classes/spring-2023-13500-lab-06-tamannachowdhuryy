@@ -3,7 +3,7 @@ Author: Tamanna Chowdhury
 Course: CSCI-135
 Instructor: Mike Zamansky
 Assignment: Lab6B
-This program is used to make a shift with the number that was given and the word will change. 
+This program is used to make a shift with the number that was given and the word will change.
 */
 #include <iostream>
 #include "caesar.h"
