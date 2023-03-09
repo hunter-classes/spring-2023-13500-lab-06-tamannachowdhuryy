@@ -6,15 +6,6 @@
 
 int main()
 {
-// Task A
-  char char1 = shiftChar('z', 5);
-  char char3 = shiftChar('y', 5);
-  char char2 = shiftChar('a', 5);
- 
-
-  std::cout << "Task A: ShiftChar: " << char1 << std::endl;
-  std::cout << "Task A: ShiftChar: " << char2 << std::endl; 
-  std::cout << "Task A: ShiftChar: " << char3 << std::endl; 
   
   //TASK B
   std::cout << "Task B: encrptCaesar(\"Way to Go!\", 5) = " << encryptCaesar("Way to Go!", 5) << std::endl;
