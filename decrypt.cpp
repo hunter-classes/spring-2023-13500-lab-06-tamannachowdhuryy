@@ -3,7 +3,7 @@ Author: Tamanna Chowdhury
 Course: CSCI-135
 Instructor: Mike Zamansky
 Assignment: Lab6D
-This program will decrypt the cipher word withe the key word and shift that was given
+This program will decrypt the cipher word withe the key word and shift that was given.
 */
 
 
