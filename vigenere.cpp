@@ -1,3 +1,11 @@
+/*
+Author: Tamanna Chowdhury
+Course: CSCI-135
+Instructor: Genady Maryash
+Assignment: Lab6C
+This program will take a word and use a keyword to make a new word that is ciphered text
+*/
+
 #include <iostream>
 #include <string>
 #include <cctype>
