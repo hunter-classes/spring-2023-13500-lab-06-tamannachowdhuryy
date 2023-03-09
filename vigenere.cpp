@@ -1,7 +1,7 @@
 /*
 Author: Tamanna Chowdhury
 Course: CSCI-135
-Instructor: Genady Maryash
+Instructor: Mike Zamansky
 Assignment: Lab6C
 This program will take a word and use a keyword to make a new word that is ciphered text
 */
