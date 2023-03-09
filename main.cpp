@@ -8,6 +8,7 @@ int main()
 {
   
   //TASK B
+  
   std::cout << "Task B: encrptCaesar(\"Way to Go!\", 5) = " << encryptCaesar("Way to Go!", 5) << std::endl;
   std::cout << "TASK B: encrptCaesar(\"Hello, World!\", 10) = " << encryptCaesar("Rovvy, Gybvn!", 10) <<  std::endl;
   
