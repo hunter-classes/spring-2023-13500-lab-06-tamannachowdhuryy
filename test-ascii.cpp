@@ -3,7 +3,7 @@ Author: Tamanna Chowdhury
 Course: CSCI-135
 Instructor: Mike Zamansky
 Assignment: Lab6A
-This program asks the user to input a line of text (which may possibly include spaces). Then, it reports all the characters from the input line together with their ASCII codes.
+This program asks the user to input a line of text (which may possibly include spaces). Then, it reports all the characters from the input line together with their ASCII codes
 */
 
 #include <iostream>
